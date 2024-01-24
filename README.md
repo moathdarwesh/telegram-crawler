@@ -119,6 +119,3 @@ HIDDEN_URLS = {
 }
 ```
 
-### License
-
-Licensed under the [MIT License](LICENSE).
